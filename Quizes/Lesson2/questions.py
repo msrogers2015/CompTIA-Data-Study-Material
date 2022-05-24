@@ -1,0 +1,22 @@
+questions = {
+    1 : 'What is online transactional processing (OLTP)?',
+    2 : 'What is Online Analytical Processing (OLAP)?',
+    3 : 'What is a transaction in regaurds to a database?',
+    4 : 'What is a data warehouse?',
+    5 : 'What is a Data Mart(s)?',
+    6 : 'Describe a fact table.',
+    7 : 'Describe a dimension table.',
+    8 : 'What is a star schema?',
+    9 : 'What is a snowflake schema?',
+    10: 'What is a data lake?',
+    11: 'What is a data lakehouse?',
+    12: 'Explain slowly changing dimensions.',
+    13: 'How many slowly changing dimensions are there?',
+    14: 'Which is a slowly changing dimension?',
+    15: 'What type of database does a star schema represent?',
+    16: 'What type of database does a snowflake schema represent?',
+    17: 'Which option is a slowly changing dimension type?',
+    18: 'Name a slowly changing dimension type?',
+    19: 'What is a source system?',
+    20: 'What does the term \'system of records\' mean??'
+}
